@@ -1,21 +1,51 @@
-From 36e04cf54f30535cd55c8caf7d61abf15768bbb4 Mon Sep 17 00:00:00 2001
-From: Carl Schwan <carl@carlschwan.eu>
-Date: Thu, 13 May 2021 22:44:13 +0200
-Subject: [PATCH] Update AppStream data
-
----
- org.kde.index.appdata.xml | 4 ++++
- 1 file changed, 4 insertions(+)
-
 diff --git a/org.kde.index.appdata.xml b/org.kde.index.appdata.xml
-index 27421de..43b8caf 100644
+index 27421de..ad9a34a 100644
 --- a/org.kde.index.appdata.xml
 +++ b/org.kde.index.appdata.xml
-@@ -123,8 +123,12 @@
+@@ -115,16 +115,49 @@
+       <caption xml:lang="sv">Index filhanterare</caption>
+       <caption xml:lang="uk">Програма для керування файлами Index</caption>
+       <caption xml:lang="x-test">xxIndex file managerxx</caption>
+-      <image type="source" width="1048" height="631">
+-        https://invent.kde.org/websites/product-screenshots/-/raw/master/index/index.png
++      <image type="source">
++        https://cdn.kde.org/screenshots/index/index.png
++      </image>
++    </screenshot>
++    <screenshot type="default">
++      <caption>Tabs on mobile</caption>
++      <image type="source">
++        https://cdn.kde.org/screenshots/index/index-tabs.png
++      </image>
++    </screenshot>
++    <screenshot type="default">
++      <caption>Convergent</caption>
++      <image type="source">
++        https://cdn.kde.org/screenshots/index/index-stable.png
++      </image>
++    </screenshot>
++    <screenshot type="default">
++      <caption>Tabs on mobile</caption>
++      <image type="source">
++        https://cdn.kde.org/screenshots/index/index-tabs.png
++      </image>
++    </screenshot>
++    <screenshot type="default">
++      <caption>Overview and settings</caption>
++      <image type="source">
++        https://cdn.kde.org/screenshots/index/index-1.2.1-2.png
+       </image>
+     </screenshot>
+   </screenshots>
    <provides>
      <binary>index</binary>
    </provides>
-+  <content_rating type="oars-1.0" />
++  <recommends>
++    <control>pointing</control>
++    <control>keyboard</control>
++    <control>touch</control>
++  </recommends>
++  <content_rating type="oars-1.0"/>
    <project_group>KDE</project_group>
    <releases>
 +    <release version="1.2.2" date="2021-05-11">
@@ -24,6 +54,3 @@ index 27421de..43b8caf 100644
      <release version="1.1.1" date="2020-05-17"/>
    </releases>
  </component>
--- 
-2.31.1
-
