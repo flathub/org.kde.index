@@ -1,8 +1,8 @@
 diff --git a/org.kde.index.appdata.xml b/org.kde.index.appdata.xml
-index 27421de..ad9a34a 100644
+index 27421de..d6567db 100644
 --- a/org.kde.index.appdata.xml
 +++ b/org.kde.index.appdata.xml
-@@ -115,16 +115,49 @@
+@@ -115,16 +115,43 @@
        <caption xml:lang="sv">Index filhanterare</caption>
        <caption xml:lang="uk">Програма для керування файлами Index</caption>
        <caption xml:lang="x-test">xxIndex file managerxx</caption>
@@ -22,12 +22,6 @@ index 27421de..ad9a34a 100644
 +      <caption>Convergent</caption>
 +      <image type="source">
 +        https://cdn.kde.org/screenshots/index/index-stable.png
-+      </image>
-+    </screenshot>
-+    <screenshot type="default">
-+      <caption>Tabs on mobile</caption>
-+      <image type="source">
-+        https://cdn.kde.org/screenshots/index/index-tabs.png
 +      </image>
 +    </screenshot>
 +    <screenshot type="default">
