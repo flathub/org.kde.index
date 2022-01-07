@@ -47,28 +47,7 @@
                 }
             ]
         },
-        {
-            "name": "kdecoration",
-            "buildsystem": "cmake-ninja",
-            "sources": [
-                {
-                    "type": "archive",
-                    "sha256": "48982039397a7a58552d649cf8166dfc27b578cf2cb8c1b59b86785e124512cf",
-                    "url": "https://download.kde.org/stable/plasma/5.23.5/kdecoration-5.23.5.tar.xz"
-                }
-            ]
-        },
-        {
-            "name": "applet-window-buttons",
-            "buildsystem": "cmake-ninja",
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://github.com/psifidotos/applet-window-buttons/archive/refs/tags/0.10.1.tar.gz",
-                    "sha256": "6d20f7888a76bf72d068d529aaaf57ebf89e60e52caa692b8075502b92fc541f"
-                }
-            ]
-        },
+       
         {
             "name": "index-fm",
             "buildsystem": "cmake-ninja",
