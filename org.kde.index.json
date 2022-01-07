@@ -64,7 +64,7 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/psifidotos/applet-window-buttons/archive/refs/tags/0.10.1.tar.gzz",
+                    "url": "https://github.com/psifidotos/applet-window-buttons/archive/refs/tags/0.10.1.tar.gz",
                     "sha256": "6d20f7888a76bf72d068d529aaaf57ebf89e60e52caa692b8075502b92fc541f"
                 }
             ]
