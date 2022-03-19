@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "sha256": "577b999de9ee07e7db26b6686890bed9324d64823c2014315193ed39e183e355",
-                    "url": "https://download.kde.org/stable/maui/mauikit/2.1.0/mauikit-2.1.0.tar.xz",
+                    "sha256": "4a771d0d488086391910f2e8b20307116069ba55577d18b35fdbdc4e50b9e9c5",
+                    "url": "https://download.kde.org/stable/maui/mauikit/2.1.1/mauikit-2.1.1.tar.xz",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242845,
@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/maui/mauikit-filebrowsing/2.1.0/mauikit-filebrowsing-2.1.0.tar.xz",
-                    "sha256": "273171a0148d83540f3a2c73b7b0ef3be14586948f6e829b270e30146bb9af43",
+                    "url": "https://download.kde.org/stable/maui/mauikit-filebrowsing/2.1.1/mauikit-filebrowsing-2.1.1.tar.xz",
+                    "sha256": "daee19e3df3f04a701c7319d9c27d2828146fd9aed3c3897c652781286e72ccc",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242845,
@@ -54,8 +54,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.1/src/kio-extras-21.12.1.tar.xz",
-                    "sha256": "cc7d5465602c0cd26577a30572ebfa3141414828a360f17e6e456a2d6faa505f",
+                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kio-extras-21.12.3.tar.xz",
+                    "sha256": "b1400209157f5ff21e0981a54c8bdb442a51764ccd88fecdd7e49f989bb4f787",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -65,15 +65,14 @@
                 }
             ]
         },
-       
         {
             "name": "index-fm",
             "buildsystem": "cmake-ninja",
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/maui/index/2.1.0/index-fm-2.1.0.tar.xz",
-                    "sha256": "398cc87442847bc957a0e4ba7057b48b7108ef4eb47cbf2acee3d313c2f2f73b",
+                    "url": "https://download.kde.org/stable/maui/index/2.1.1/index-fm-2.1.1.tar.xz",
+                    "sha256": "dbe1078356f9776dce3a5404d2d9b00c8984c0a8aa02eb0ec450c6c5f4b3fc5e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242960,
