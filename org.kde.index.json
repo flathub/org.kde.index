@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "sha256": "4a771d0d488086391910f2e8b20307116069ba55577d18b35fdbdc4e50b9e9c5",
-                    "url": "https://download.kde.org/stable/maui/mauikit/2.1.1/mauikit-2.1.1.tar.xz",
+                    "sha256": "a73e81b3d1631caa7ef9ca358095dc25704f5bad9851be5ea944717a4040b7d8",
+                    "url": "https://download.kde.org/stable/maui/mauikit/2.1.2/mauikit-2.1.2.tar.xz",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242845,
@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/maui/mauikit-filebrowsing/2.1.1/mauikit-filebrowsing-2.1.1.tar.xz",
-                    "sha256": "daee19e3df3f04a701c7319d9c27d2828146fd9aed3c3897c652781286e72ccc",
+                    "url": "https://download.kde.org/stable/maui/mauikit-filebrowsing/2.1.2/mauikit-filebrowsing-2.1.2.tar.xz",
+                    "sha256": "d8ef2d4d3c4d953a7465542cc4f38dea35803f755bf3cafd116ed6444896ee26",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242845,
@@ -71,8 +71,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/maui/index/2.1.1/index-fm-2.1.1.tar.xz",
-                    "sha256": "dbe1078356f9776dce3a5404d2d9b00c8984c0a8aa02eb0ec450c6c5f4b3fc5e",
+                    "url": "https://download.kde.org/stable/maui/index/2.1.2/index-fm-2.1.2.tar.xz",
+                    "sha256": "b62591e3d9563aa9f267568ef7af406306444e4b9faf1d2dcddec050fab75cf9",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242960,
