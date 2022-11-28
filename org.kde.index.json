@@ -31,8 +31,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "sha256": "02f72ff76c66a5e0506d2d6b2782272f9331dbdccf1a0a3bcd6e391f287f7b15",
-                    "url": "https://download.kde.org/stable/maui/mauikit/2.2.0/mauikit-2.2.0.tar.xz",
+                    "sha256": "f02424973b9aa6362010380d9882f3465ca3b54d085190afde2c48819e689267",
+                    "url": "https://download.kde.org/stable/maui/mauikit/2.2.1/mauikit-2.2.1.tar.xz",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242845,
@@ -65,8 +65,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/kio-extras-22.08.1.tar.xz",
-                    "sha256": "89e140e1e6668754b8cb688b5375108d1dfafe0fad65600dd13694fe6ca53038",
+                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/kio-extras-22.08.3.tar.xz",
+                    "sha256": "2836c9417044c4aba8594b7b355edf55aa686c5c40cfde7bf1e4f118843a73eb",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -82,8 +82,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/maui/index/2.2.0/index-fm-2.2.0.tar.xz",
-                    "sha256": "81f0f9ccb609d8413ca5e35e36ded65df17c373acd9ad459322688859bd3696c",
+                    "url": "https://download.kde.org/stable/maui/index/2.2.1/index-fm-2.2.1.tar.xz",
+                    "sha256": "95ea041b3bff178b23abdd5aae42e73d991fc60469fbb79cb2c815e3551d36be",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242960,
