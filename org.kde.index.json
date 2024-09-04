@@ -6,12 +6,12 @@
     "sdk": "org.kde.Sdk",
     "command": "index",
     "finish-args": [
+        "--device=dri",
+        "--filesystem=host",
         "--share=ipc",
         "--share=network",
         "--socket=fallback-x11",
-        "--socket=wayland",
-        "--device=dri",
-        "--filesystem=host"
+        "--socket=wayland"
     ],
     "modules": [
         {
