@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/maui/mauiman/4.0.0/mauiman-4.0.0.tar.xz",
-                    "sha256": "628a6e85c48e699ef1b57ad8b52e994c32824f687ca11155e2ea8437ae0cb233",
+                    "url": "https://download.kde.org/stable/maui/mauiman/4.0.1/mauiman-4.0.1.tar.xz",
+                    "sha256": "b7f75237f7275186539e719f9bcc49c63cf354b78f0c85db37aba0c3d29ffb8c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 315311,
@@ -37,8 +37,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "sha256": "a5fbc22f5b19b11b569c8a9585c2e3b64d3226f7bf8f4b92014953403d10e1d2",
-                    "url": "https://download.kde.org/stable/maui/mauikit/4.0.0/mauikit-4.0.0.tar.xz",
+                    "sha256": "7d7551a7aa790fc5846cd436255ae98e27f2541ae03869fc283df1a08325cc5d",
+                    "url": "https://download.kde.org/stable/maui/mauikit/4.0.1/mauikit-4.0.1.tar.xz",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242845,
@@ -54,8 +54,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/maui/mauikit-filebrowsing/4.0.0/mauikit-filebrowsing-4.0.0.tar.xz",
-                    "sha256": "b93edb5b07fd1fd74f4b46d5bb1402c57370728038e7e407dba1be3730f1da2e",
+                    "url": "https://download.kde.org/stable/maui/mauikit-filebrowsing/4.0.1/mauikit-filebrowsing-4.0.1.tar.xz",
+                    "sha256": "88282ba048090ebe0c5f7a764ebd5bc5a9c61c528cfdf91819b340bfc6002323",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242845,
@@ -88,8 +88,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/maui/index/4.0.0/index-fm-4.0.0.tar.xz",
-                    "sha256": "889a0b960377fb97d784421958d55d22ada803894bcce2a3e0214314bf653f87",
+                    "url": "https://download.kde.org/stable/maui/index/4.0.1/index-fm-4.0.1.tar.xz",
+                    "sha256": "86721653e06dc40edcc6660cd3e30c4ba48cb06f36809a31527b448272f35152",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242960,
