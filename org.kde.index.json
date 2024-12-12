@@ -66,6 +66,23 @@
             ]
         },
         {
+            "name": "mauikit-archiver",
+            "buildsystem": "cmake-ninja",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/maui/mauikit-archiver/4.0.1/mauikit-archiver-4.0.1.tar.xz",
+                    "sha256": "87398f98017c21c2e59be3740d6a0d592f6ca09e9290d665ab7a44dd34ea81fd",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 242845,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/maui/mauikit-archiver/$version/mauikit-archiver-$version.tar.xz"
+                    }
+                }
+            ]
+        },
+        {
             "name": "kio-extras",
             "buildsystem": "cmake-ninja",
             "sources": [
