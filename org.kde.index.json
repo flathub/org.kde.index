@@ -90,26 +90,6 @@
             ]
         },
         {
-            "name": "kio-extras",
-            "buildsystem": "cmake-ninja",
-            "config-opts": [
-                "-DBUILD_ACTIVITIES=OFF"
-            ],
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/kio-extras-26.08.3.tar.xz",
-                    "sha256": "5ff1e1091b162cd02c226880a6af93e6908ab32993b420fbe8fc10718e168780",
-                    "x-checker-data": {
-                        "type": "anitya",
-                        "project-id": 8763,
-                        "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kio-extras-$version.tar.xz"
-                    }
-                }
-            ]
-        },
-        {
             "name": "index-fm",
             "buildsystem": "cmake-ninja",
             "sources": [
